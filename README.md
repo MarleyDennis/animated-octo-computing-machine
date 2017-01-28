@@ -1,4 +1,4 @@
 # animated-octo-computing-machine
 Bett Workshop
 
-:smiley face:
+:smiley_face:
